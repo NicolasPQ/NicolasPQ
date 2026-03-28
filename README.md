@@ -78,15 +78,6 @@ Sistema ERP modular desarrollado para un comercio minorista real, implementado c
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPQ&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPQ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>"La tecnología más interesante siempre es la que todavía no entiendes del todo." 🤓</i>
 </p>
