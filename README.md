@@ -1,64 +1,92 @@
-# Hola, soy Nicolas 👋
+<h1 align="center">¡Hola! Soy Nico 👋</h1>
 
-## Ingeniero de Sistemas | Desarrollador .NET
+<p align="center">
+  <b>Backend Developer · .NET & C# · Ingeniero de Sistemas</b><br/>
+  <i>Curioso por naturaleza — si no lo sé, es razón suficiente para aprenderlo 🔍</i>
+</p>
 
-Ingeniero de Sistemas especializado en el diseño e implementación de arquitecturas empresariales utilizando el ecosistema .NET. Mi enfoque está en construir sistemas escalables, mantenibles y seguros que resuelven problemas de negocio reales.
-
-Me motiva entender cómo funcionan las cosas en profundidad, no solo a nivel de sintaxis sino a nivel arquitectónico y conceptual. Esta curiosidad me impulsa a investigar las decisiones de diseño detrás de las tecnologías que uso y a aplicar ese conocimiento en soluciones bien fundamentadas.
-
----
-
-### 🔧 Stack Técnico Principal
-
-**Backend & Arquitectura**
-- C# • ASP.NET Core • Entity Framework Core
-- Arquitectura en Capas • Patrón Repositorio • API RESTful
-- Autenticación JWT • SignalR
-
-**Bases de Datos**
-- SQL Server • T-SQL • Procedimientos Almacenados
-- Diseño Relacional • Optimización de Consultas
-
-**Herramientas & Prácticas**
-- Git • Visual Studio • Postman
-- Control de Versiones • Documentación Técnica
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-pq">
+    <img src="https://img.shields.io/badge/LinkedIn-nicolas--pq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nicolasparadaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nicolasparadaq@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NicolasPQ">
+    <img src="https://img.shields.io/badge/GitHub-NicolasPQ-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💼 Experiencia en Proyectos
+## 🙋 Sobre mí
 
-He desarrollado sistemas empresariales completos que incluyen:
+Soy un Ingeniero de Sistemas egresado, con mi proyecto de grado en proceso de defensa y con muchas ganas de seguir construyendo cosas. Me especializo en **desarrollo backend con .NET y C#**, y lo que más disfruto es entender cómo funciona todo por dentro: la arquitectura, la lógica, las decisiones de diseño detrás de cada sistema.
 
-- **Sistema ERP para comercio minorista** con arquitectura de cuatro capas, implementando módulos de ventas, compras, inventario, caja y reportería con capacidades de análisis de datos
-- **Sistema de gestión académica** para instituciones educativas con control de acceso basado en roles y generación automatizada de documentación oficial
-- **Aplicaciones de punto de venta** optimizadas para ambientes de alto volumen transaccional
+He diseñado e implementado **tres sistemas completos** desde cero — incluyendo un ERP modular para un cliente real — aplicando buenas prácticas como arquitectura en capas, patrón repositorio, autenticación JWT y comunicación en tiempo real.
 
-Mis proyectos están actualmente en repositorios privados por contener lógica de negocio específica de clientes. Estoy considerando publicar componentes sanitizados y casos de estudio técnicos en el futuro.
+Si algo no lo conozco, eso solo aumenta las ganas de entenderlo. 🧩
 
 ---
 
-### 🎯 Áreas de Interés
+## 🛠️ Stack técnico
 
-- Arquitectura de Software y Patrones de Diseño
-- Desarrollo de APIs RESTful
-- Optimización de Bases de Datos
-- Seguridad en Aplicaciones Web
-- Sistemas Distribuidos
+**Lenguajes:**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks y librerías:**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Bases de datos:**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas:**
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-### 🌱 Actualmente
+## 🚀 Proyecto destacado
 
-Explorando conceptos avanzados de arquitectura de software, mejores prácticas de desarrollo empresarial y profundizando en tecnologías del ecosistema .NET. Siempre abierto a aprender nuevas tecnologías y colaborar en proyectos que presenten desafíos técnicos interesantes.
+### Proper Proc — Sistema ERP Web para Bazar NENO
+> *Proyecto de Grado · Cliente real · Santa Cruz, Bolivia*
+
+`ASP.NET Core MVC` `ASP.NET Core Web API` `Entity Framework Core` `SQL Server` `SignalR`
+
+Sistema ERP modular desarrollado para un comercio minorista real, implementado con metodología **Scrum** en 6 sprints a partir de 32 historias de usuario.
+
+- 🏗️ **Arquitectura de cinco capas** — Presentación, API, Negocios, Datos y Dominio
+- 🔐 **Autenticación JWT** con encriptación SHA-256, salt y sistema de roles con permisos granulares
+- ⚡ **SignalR** para dashboards en tiempo real y actualización automática de roles
+- 🧩 **6 módulos funcionales** — Administración, Ventas (con lector de códigos de barras), Compras, Caja, Configuración y Reportes
+- 📊 **Reportes dinámicos** en PDF y Excel para análisis administrativo, comercial y económico
 
 ---
 
-### 📫 Conectemos
+## 📊 GitHub Stats
 
-- **LinkedIn:** [Nicolas Parada Quevedo](https://www.linkedin.com/in/nicolas-pq/)
-- **Email:** nicolasparadaq@gmail.com
-- **Ubicación:** Santa Cruz de la Sierra, Bolivia
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasPQ&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPQ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-*"El código es la implementación, pero la arquitectura es la visión"*
+<p align="center">
+  <i>"La tecnología más interesante siempre es la que todavía no entiendes del todo." 🤓</i>
+</p>
