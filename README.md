@@ -21,7 +21,7 @@
 
 ## 🙋 Sobre mí
 
-Soy un Ingeniero de Sistemas egresado, con mi proyecto de grado en proceso de defensa y con muchas ganas de seguir construyendo cosas. Me especializo en **desarrollo backend con .NET y C#**, y lo que más disfruto es entender cómo funciona todo por dentro: la arquitectura, la lógica, las decisiones de diseño detrás de cada sistema.
+Soy un Ingeniero de Sistemas egresado, en proceso de titulación y con muchas ganas de seguir construyendo cosas. Me especializo en **desarrollo backend con .NET y C#**, y lo que más disfruto es entender cómo funciona todo por dentro: la arquitectura, la lógica, las decisiones de diseño detrás de cada sistema.
 
 He diseñado e implementado **tres sistemas completos** desde cero — incluyendo un ERP modular para un cliente real — aplicando buenas prácticas como arquitectura en capas, patrón repositorio, autenticación JWT y comunicación en tiempo real.
 
